@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jejeeeeeee
+- 👀 I’m interested in ... Coding and other things
+- 🌱 I’m currently learning ... python soon!
+- 💞️ I’m looking to collaborate on ... not yet
+- 📫 How to reach me ... add me on discord cng#5598
