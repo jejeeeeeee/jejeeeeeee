@@ -15,11 +15,11 @@
 
 - 🤝Looking for help? **DM me on discord (cng#5598)**
 
-- 👨‍💻 All of my projects are available at: **__I dont know__** if these will be published.
+- 👨‍💻 All of my projects are available at: **I dont know if these will be published.
 
 - 💬 Ask me about Anything: **DM me on discord cng#5598**
 
-- 📫 How to reach me: u can add me on discord, thats where im the most active.(cng#5598) or Gmail **u can add me on discord, thats where im the most active.(cng#5598)**
+- 📫 How to reach me: u can add me on discord, thats where im the **most active.(cng#5598)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
