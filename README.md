@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Thije (Call me Jeje)</h1>
+<h1 align="center">Hiya 👋, I'm Thije (Call me Jeje)</h1>
 <h3 align="center">A passionate frontend developer from Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jejeeeeeee&label=Profile%20views&color=0e75b6&style=flat" alt="jejeeeeeee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jejeeeeeee" alt="jejeeeeeee" /></a> </p>
+<p align="left"> <a href="https://github.com/jejeeeeeee"><img src="https://github-profile-trophy.vercel.app/?username=jejeeeeeee" alt="jejeeeeeee" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/youknowits_cng" target="blank"><img src="https://img.shields.io/twitter/follow/youknowits_cng?logo=twitter&style=for-the-badge" alt="youknowits_cng" /></a> </p>
 
