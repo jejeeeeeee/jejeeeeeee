@@ -15,7 +15,7 @@
 
 - 🤝Looking for help? **DM me on discord (cng#5598)**
 
-- 👨‍💻 All of my projects are available at: [I dont know if these will be published.](I dont know if these will be published.)
+- 👨‍💻 All of my projects are available at: **I dont know** if these will be published.
 
 - 💬 Ask me about Anything: **DM me on discord cng#5598**
 
