@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate: **(not yet, this is soon)**
 
-- 🤝Looking for help? **DM me on discord (cng#5598)**
+- 🤝Looking for help? **DM me on discord (cng#5598)
 
 - 👨‍💻 All of my projects are available at: **I dont know if these will be published.
 
-- 💬 Ask me about Anything: **DM me on discord cng#5598**
+- 💬 Ask me about Anything: **DM me on discord **cng#5598**
 
-- 📫 How to reach me: u can add me on discord, thats where im the **most active.(cng#5598)
+- 📫 How to reach me: u can add me on discord, thats where im the **most active.(cng#5598)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
