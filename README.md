@@ -35,6 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jejeeeeeee&show_icons=true&locale=en" alt="jejeeeeeee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jejeeeeeee&" alt="jejeeeeeee" /></p>
-
-
-<iframe src="https://discord.com/widget?id=1108458052945985568&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
